@@ -66,7 +66,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 来自中世界
+footer-text: Copyright (c) 2023 meteor
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
@@ -111,7 +111,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :compressed # You might prefer to minify using :compressed
+  style: compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 plugins:
