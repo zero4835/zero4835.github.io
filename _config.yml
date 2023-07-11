@@ -1,36 +1,36 @@
 #
-# 这个文档包含了本博客的设定信息，你可以编辑它来个性化自己的博客，
+# 這個文檔包含了本博客的設定信息，你可以編輯它來個性化自己的博客，
 #
 
-# 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
-# 注意，“name: LOFFER”，冒号后面的空格不可以省略。
-# 井号后面的文字是说明文档，不会被程序读取。
+# 你的博客名稱，請用你想要的博客名替換“LOFFER”，以下修改都可類似處理
+# 注意，“name: LOFFER”，冒號後面的空格不可以省略。
+# 井號後面的文字是說明文檔，不會被程序讀取。
 
-# 描述/签名
+# 描述/簽名
 name: Natsusaka
 description: Natsusaka's website
 
-# 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
+# 輸入你的網站域名（如果你沒有添加自己的域名，而是直接用GitHub pages分配的域名的話可以省略）
 url: 
 
-# 添加你的博客的二级域名，一般来说是你的repository名
+# 添加你的博客的二級域名，一般來說是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
-# 那么就写成 "/repository-name"
+# 那麽就寫成 "/repository-name"
 baseurl: /
 
 
 #
-# 下面的设定都是可选的
+# 下面的設定都是可選的
 #
 
-# 你的博客logo图片URL，建议尺寸不超过300px × 300px
+# 你的博客logo圖片URL，建議尺寸不超過300px × 300px
 avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
 
-# 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
+# 你的favicon（出現在瀏覽器tab上）圖片URL，建議使用較小(64px × 64px)的圖片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
 
 
-# 菜单中的按钮
+# 菜單中的按鈕
 navigation:
   - name: 首頁
     url: /
@@ -41,15 +41,15 @@ navigation:
   - name: 標籤
     url: /tags
 
-# 每页的文章数
+# 每頁的文章數
 paginate: 6
 
-# 文章简介的区分标记
+# 文章簡介的區分標記
 excerpt_separator: <!-- more -->
 
-# 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
+# 你的社交網絡鏈接，它們會作為圖標出現在你的網站頁腳中，可選填寫
 footer-links: 
-  weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo:  #請輸入你的微博個性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: #@mail.com
@@ -59,23 +59,23 @@ footer-links:
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
-  rss: #随便填点啥RSS就能用了
+  rss: #隨便填點啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
   twitter: # https://www.twitter.com/<your_twitter_username> 
   youtube: # channel/<your_long_string> or user/<user-name>
 
-# 站点页脚的文字
+# 站點頁腳的文字
 footer-text: Copyright (c) 2023 Natsusaka
 
 #
-# 评论，注意，请不要同时添加多种不同的评论区
+# 評論，注意，請不要同時添加多種不同的評論區
 #
 
-# 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
+# 輸入Disqus shortname，即可添加評論區，請查閱文檔，設置自己的disqus站點，不要繼續使用我的站點loffer
 disqus: Natsusaka #shortname
 
-# 输入Gitalk相关设定，即可添加评论区，具体请看教程
+# 輸入Gitalk相關設定，即可添加評論區，具體請看教程
 gitalk:
   clientID: 
   clientSecret: 
@@ -83,14 +83,14 @@ gitalk:
   owner: 
   proxy:
 
-# 输入Google Analytics web tracking code
+# 輸入Google Analytics web tracking code
 google_analytics:
 
 utteranc:
   repo: # Your github repo path, also see: https://utteranc.es
 
 #
-# !! 以下所有设置都不需要更改 !!
+# !! 以下所有設置都不需要更改 !!
 #
 
 permalink: /:title/
@@ -126,4 +126,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
