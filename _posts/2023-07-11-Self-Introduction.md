@@ -3,7 +3,7 @@ layout: post
 title: 自我介紹
 date: 2023-07-11
 author: Natsusaka
-tags: [sample, document]
+tags: [introduction, about me]
 comments: true
 toc: true
 pinned: true
