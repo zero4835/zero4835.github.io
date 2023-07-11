@@ -24,10 +24,10 @@ baseurl: /
 #
 
 # 你的博客logo圖片URL，建議尺寸不超過300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/Cat.png
 
 # 你的favicon（出現在瀏覽器tab上）圖片URL，建議使用較小(64px × 64px)的圖片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/Cat.png
 
 
 # 菜單中的按鈕
