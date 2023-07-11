@@ -26,6 +26,16 @@ toc: true
 ### 登入介面
 
 使用JWT作為Token驗證
+
+```
+public String createToken(Integer userId, String email) {
+        Algorithm algorithm = Algorithm.HMAC256(secret);
+        return JWT.create()
+                .withClaim("mid", userId)
+                .withClaim("email", email)
+                .sign(algorithm);
+    }
+```
 ![](https://img.onl/tNxBH5)
 
 ### 註冊介面
