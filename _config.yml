@@ -7,8 +7,8 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: Meteor
-description: Meteor's website
+name: Natsusaka
+description: Natsusaka's website
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -32,17 +32,17 @@ favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/fav
 
 # 菜单中的按钮
 navigation:
-  - name: 首页
+  - name: 首頁
     url: /
-  - name: 关于
+  - name: 關於
     url: /about
-  - name: 归档
+  - name: 檔案
     url: /archive
-  - name: 标签
+  - name: 標籤
     url: /tags
 
 # 每页的文章数
-paginate: 8
+paginate: 6
 
 # 文章简介的区分标记
 excerpt_separator: <!-- more -->
@@ -52,10 +52,10 @@ footer-links:
   weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: #youremailaddress@mail.com
+  email: @mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: FromEndWorld/loffer #https://github.com/<>
+  github: https://github.com/zero4835?tab=repositories #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
@@ -66,14 +66,14 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2023 meteor
+footer-text: Copyright (c) 2023 Natsusaka
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: loffer #shortname
+disqus: Natsusaka #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
