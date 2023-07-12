@@ -44,6 +44,12 @@ public String createToken(Integer userId, String email) {
 
 ![](https://img.onl/b0V5DR)
 
+帶有使用者名稱和頭像的登入狀態
+
+![](https://img.onl/3b6W7y)
+
+
+
 
 
 
