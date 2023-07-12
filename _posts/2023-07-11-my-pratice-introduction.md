@@ -23,7 +23,7 @@ toc: true
 
 ### 登入介面
 
-使用JWT作為Token驗證
+使用JWT作為Token驗證,用把id和email加入其中
 
 ```
 public String createToken(Integer userId, String email) {
@@ -47,6 +47,8 @@ public String createToken(Integer userId, String email) {
 帶有使用者名稱和頭像的登入狀態
 
 ![](https://img.onl/3b6W7y)
+
+
 
 
 
