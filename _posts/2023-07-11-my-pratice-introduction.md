@@ -39,6 +39,12 @@ public String createToken(Integer userId, String email) {
 ### 註冊介面
 ![](https://img.onl/G4byTp)
 
+## 資料庫
+資料庫使用JPA來將實體的物件持久化到資料庫中
+
+![](https://img.onl/b0V5DR)
+
+
 
 
 
