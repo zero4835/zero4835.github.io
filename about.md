@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 個人檔案
+title: 關於
 permalink: /about/
 ---
 
