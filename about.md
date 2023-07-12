@@ -4,4 +4,6 @@ title: 關於
 permalink: /about/
 ---
 
-嗨!我是梁欣宇，目前就讀資訊系，喜歡研究方面的資訊技術。
+Hi! I'm Natsusaka. I'm currently studying in the Department of Information Technology. I like to study all aspects of information technology.
+
+![](https://img.onl/44mVEc)
