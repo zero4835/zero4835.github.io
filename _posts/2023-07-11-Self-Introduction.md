@@ -4,7 +4,7 @@ title: 自我介紹
 date: 2023-07-11
 author: Natsusaka
 tags: [introduction, about me]
-comments: true
+comments: false
 toc: true
 pinned: true
 ---
