@@ -16,5 +16,13 @@ toc: true
 
 在使用深度學習前我已統計的方式來做情緒分.析:
 1. 把輸入的文本斷詞
+`words = jieba.cut(text)`
 2. 根據NTUSD_traditional的情緒分析集pos.txt和neg.txt來統計各個斷詞是否出現其中
+![](https://img.onl/cAPzd6)
+3. 進行softmax轉換
+`exp_scores = [math.exp(i) for i in score]`
+`softmax_scores = [round(j / sum(exp_scores), 2) for j in exp_scores]`
+`return {"neg":softmax_scores[0], "neu":softmax_scores[1], "pos":softmax_scores[2]}`
+完整程式碼 `softmax.py`
+![](https://img.onl/rONvFA)
 
