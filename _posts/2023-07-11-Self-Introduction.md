@@ -6,6 +6,5 @@ author: Natsusaka
 tags: [introduction, about me]
 comments: false
 toc: true
-pinned: true
 ---
 Hi! I'm Natsusaka,Currently studying at Feng Chia University, learning the basics of full-stack development and deep learning.
