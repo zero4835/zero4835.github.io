@@ -23,7 +23,7 @@ toc: true
 ```
 exp_scores = [math.exp(i) for i in score]
 softmax_scores = [round(j / sum(exp_scores), 2) for j in exp_scores]
-return {"neg":softmax_scores[0], "neu":softmax_scores[1], "pos":softmax_scores[2]}`
+return {"neg":softmax_scores[0], "neu":softmax_scores[1], "pos":softmax_scores[2]}
 ```
 
 完整程式碼 `softmax.py`
