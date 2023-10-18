@@ -8,7 +8,7 @@ comments: true
 toc: true
 --- 
 
-我的目標是做出一個帶有登入、論壇的平台，使用React + SpringMVC + MySQL，
+目標是做出一個帶有登入、論壇的平台，使用React + SpringMVC + MySQL，
 
 ## Structure
 ##### Back-end
