@@ -24,7 +24,8 @@ baseurl: /
 #
 
 # 你的博客logo圖片URL，建議尺寸不超過300px × 300px
-avatar: https://img.onl/PY508m
+# https://img.onl/PY508m
+avatar: ./images/Cat.png
 
 # 你的favicon（出現在瀏覽器tab上）圖片URL，建議使用較小(64px × 64px)的圖片
 favicon: https://img.onl/PY508m
